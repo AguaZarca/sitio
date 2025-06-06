@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+p{
+	font-family:"Comic Sans MS", cursive;
+	font-size:14px;
+	color: #36F;
+	line-height:18px;
+	padding:5px;
+}
+
+.negritas {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #309;
+}
+.navegacion{
+	font-family: "Comic Sans MS", sans-serif;
+	font-size:18px;
+	color: #ffffff;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: ;
+	display: block;
+	padding: 8px;
+	width: 140px; 
+}
+.navegacion:hover{
+	font-family: "Comic Sans MS", sans-serif;
+	font-size:20px;
+	color: #ffffff;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #ae60e5;
+	display: block;
+	padding: 8px;
+	width: 140px; 
+}
+
